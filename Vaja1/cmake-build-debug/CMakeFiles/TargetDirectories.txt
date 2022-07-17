@@ -1,0 +1,3 @@
+/cygdrive/d/Faks/2semester/OsnoveAlgoritmov/Vaja1-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Faks/2semester/OsnoveAlgoritmov/Vaja1-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Faks/2semester/OsnoveAlgoritmov/Vaja1-2/cmake-build-debug/CMakeFiles/Vaja1_2.dir
