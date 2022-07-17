@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Vaja2.dir/main.cpp.o -o Vaja2.exe -Wl,--out-implib,libVaja2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

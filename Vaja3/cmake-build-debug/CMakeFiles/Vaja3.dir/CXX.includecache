@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Faks/2semester/OsnoveAlgoritmov/Vaja3/main.cpp
+iostream
+-
+fstream
+-
+algorithm
+-
+vector
+-
+cstdlib
+-
+ctime
+-
+chrono
+-
+
